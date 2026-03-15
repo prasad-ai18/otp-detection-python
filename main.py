@@ -1,3 +1,9 @@
+"""
+Project: OTP Detection System
+Author: B. Lakshmi Vara Prasad
+GitHub: https://github.com/prasad-ai18
+Description: Detects OTP codes from messages using Python and regular expressions.
+"""
 import re
 
 otp_history = []
