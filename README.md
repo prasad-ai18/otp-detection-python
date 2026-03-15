@@ -16,3 +16,6 @@ Regular Expressions (re module)
 ## Run the program
 
 python main.py
+
+##Author
+B. Lakshmi Vara Prasad
